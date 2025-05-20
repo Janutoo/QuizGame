@@ -1,0 +1,50 @@
+What is the capital of Poland?[2.5]
+*Warsaw
+Krakow
+Poznan
+Wroclaw
+Which lake is the largest in Poland?[1.5]
+Mamry
+*Sniardwy
+Hancza
+Goplo
+What is the result of 2 + 2?[1.0]
+3
+5
+*4
+6
+Which planet is closest to the Sun?[2.0]
+Venus
+*Mercury
+Earth
+Mars
+Who wrote 'Romeo and Juliet'?[2.5]
+*William Shakespeare
+Jane Austen
+Mark Twain
+Charles Dickens
+Which element has the chemical symbol 'O'?[1.0]
+Gold
+Iron
+*Oxygen
+Silver
+In which year did World War II start?[2.0]
+*1939
+1914
+1945
+1941
+Which language is primarily spoken in Brazil?[1.5]
+Spanish
+*Portuguese
+French
+English
+Which continent is Egypt located in?[1.0]
+Asia
+*Africa
+Europe
+South America
+Which animal is known as the king of the jungle?[1.0]
+Elephant
+Tiger
+*Lion
+Bear
